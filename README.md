@@ -39,5 +39,5 @@ Seja bem-vindo ao meu GitHub! 🚀 Aqui compartilho projetos e aprendizados sobr
 📫 **Entre em contato comigo:**  
 
 <a href="[https://www.linkedin.com/in/gabriel-duarte1010](https://www.linkedin.com/in/vinicius-stabile-63283623b/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "viniciusstabile08@yahoo.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://github.com/ViniciusStabile?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-%23ff5f40?style=for-the-badge&logo=github&logoColor=white"></a>  
+📧 Email: viniciusstabile08@yahoo.com
