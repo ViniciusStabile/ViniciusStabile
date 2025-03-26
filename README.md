@@ -30,8 +30,8 @@ Seja bem-vindo ao meu GitHub! 🚀 Aqui compartilho projetos e aprendizados sobr
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusStabile&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusStabile&layout=compact&langs_count=6&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusStabile&show_icons=true&theme=dark&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusStabile&layout=compact&langs_count=6&theme=dark&cache_seconds=1800"/>
 </div>
 
 ---
