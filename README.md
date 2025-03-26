@@ -20,21 +20,15 @@ Seja bem-vindo ao meu GitHub! 🚀 Aqui compartilho projetos e aprendizados sobr
 
 ## 📌 Sobre mim
 
-🎓 Cursando o 7º semestre de Ciência da Computação. 
-📊 Estagiário de Engenharia de Dados na Compass UOL. 
-🚀 Apaixonado por dados, automação e soluções em nuvem.
-📂 Conhecimento em **Python, SQL, Pandas, ETL, Apache Airflow, AWS e NoSQL**.
+Olá! Sou Vinicius, e estou começando minha jornada como Estagiário de Engenharia de Dados na Compass UOL, com foco em AWS Cloud Data Engineering. 
+
+Atualmente, estou desenvolvendo minhas habilidades em Engenharia de Dados, Big Data, AWS, ETL, e outras tecnologias essenciais para manipulação e processamento de dados em larga escala. Minha formação acadêmica em Ciências da Computação me proporcionou uma base sólida em conceitos de banco de dados, programação em Python, SQL e processamento de dados.
+
+Se você também trabalha na área de dados ou está em busca de um networking estratégico, ficarei feliz em conectar e trocar ideias sobre as melhores práticas e inovações no campo da Engenharia de Dados.
 
 ---
 
-## 📈 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusStabile&show_icons=true&theme=dark&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusStabile&layout=compact&langs_count=6&theme=dark&cache_seconds=1800"/>
-</div>
-
----
 
 📫 **Entre em contato comigo:**  
 
